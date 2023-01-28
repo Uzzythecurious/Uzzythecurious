@@ -3,7 +3,7 @@
 - 👀 I’m interested in ... electronic engineering, coding, general making!
 - 🌱 I’m currently learning ... cs50x and arduino
 - 💞️ I’m looking to collaborate on ... any project within my capability
-- 📫 How to reach me ... uzzy_24_93@hotmail.com
+- 📫 How to reach me ... uzairahmed.work@outlook.com
 
 <!---
 Uzzythecurious/Uzzythecurious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
